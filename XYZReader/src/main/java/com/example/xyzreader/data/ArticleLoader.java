@@ -6,6 +6,7 @@ import android.net.Uri;
 
 /**
  * Helper for loading a list of articles or a single article.
+ * Krenare Rexhepi
  */
 public class ArticleLoader extends CursorLoader {
     public static ArticleLoader newAllArticlesInstance(Context context) {
