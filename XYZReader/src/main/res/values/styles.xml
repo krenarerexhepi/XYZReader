@@ -24,7 +24,7 @@
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
     <!-- inherit from the material theme -->
-    <style name="AppTheme" parent="Theme.AppCompat">
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
         <!-- Main theme colors -->
         <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
@@ -34,6 +34,20 @@
         <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
         <!--   theme UI controls like checkboxes and text fields -->
         <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:colorBackground">@color/theme_ligt</item>
     </style>
 
+    <style name="AppTheme.ActionBar.Transparent" parent="AppTheme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+
+    <style name="AppTheme.ActionBar" parent="AppTheme">
+        <item name="windowActionBarOverlay">false</item>
+        <item name="colorPrimary">@color/theme_primary</item>
+    </style>
 </resources>
+
