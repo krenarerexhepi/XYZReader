@@ -11,7 +11,6 @@ import android.net.Uri;
 import android.os.RemoteException;
 import android.text.format.Time;
 import android.util.Log;
-import android.widget.Toast;
 
 import com.example.xyzreader.remote.RemoteEndpointUtil;
 
@@ -81,7 +80,6 @@ public class UpdaterService extends IntentService {
         } catch (JSONException | RemoteException | OperationApplicationException e) {
 
             Log.e(TAG, "Error updating content.", e);
-            Toast.makeText(getBaseContext(),"No internet conncetion !!", Toast.LENGTH_SHORT).show();
         }
 
         sendStickyBroadcast(
