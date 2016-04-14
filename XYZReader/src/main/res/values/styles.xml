@@ -20,7 +20,7 @@
     <style name="Theme.XYZMaterialTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
     </style>
 
-    <style name="Theme.XYZMaterialTheme.Detail">
+    <style name="Theme.XYZMaterialTheme.Detail" parent="Base.Theme.AppCompat">
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
     <!-- inherit from the material theme -->

@@ -11,6 +11,7 @@ import android.net.Uri;
 import android.os.RemoteException;
 import android.text.format.Time;
 import android.util.Log;
+import android.widget.Toast;
 
 import com.example.xyzreader.remote.RemoteEndpointUtil;
 
@@ -38,7 +39,7 @@ public class UpdaterService extends IntentService {
 
         ConnectivityManager cm = (ConnectivityManager) getSystemService(CONNECTIVITY_SERVICE);
         NetworkInfo ni = cm.getActiveNetworkInfo();
-        if (ni == null || !ni.isConnected()) {
+        if (ni.equals(null) || !ni.isConnected()) {
             Log.w(TAG, "Not online, not refreshing.");
             return;
         }
@@ -57,7 +58,7 @@ public class UpdaterService extends IntentService {
         try {
             JSONArray array = RemoteEndpointUtil.fetchJsonArray();
             if (array == null) {
-                throw new JSONException("Invalid parsed item array" );
+                 throw new JSONException("Invalid parsed item array" );
             }
 
             for (int i = 0; i < array.length(); i++) {
@@ -78,7 +79,9 @@ public class UpdaterService extends IntentService {
             getContentResolver().applyBatch(ItemsContract.CONTENT_AUTHORITY, cpo);
 
         } catch (JSONException | RemoteException | OperationApplicationException e) {
+
             Log.e(TAG, "Error updating content.", e);
+            Toast.makeText(getBaseContext(),"No internet conncetion !!", Toast.LENGTH_SHORT).show();
         }
 
         sendStickyBroadcast(

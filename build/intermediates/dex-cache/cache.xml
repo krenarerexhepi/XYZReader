@@ -2,32 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-89267840e1b73ae04a29d5e4f92ae489b456de0a.jar" />
-    </item>
-    <item
         jar="D:\Desktop-Krenare\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
         <dex dex="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-de89574e7122fc78aaf0ab9a2afa500befa48139.jar" />
-    </item>
-    <item
-        jar="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
-        <dex dex="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-f7000edd5fd646dd922115289c382863b2f7074d.jar" />
-    </item>
-    <item
-        jar="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
-        <dex dex="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-42db020bb20697719ee1190b27f7a7a141679bcb.jar" />
     </item>
     <item
         jar="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
@@ -44,13 +23,6 @@
         <dex dex="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2-688489abf1f3cab3b7d52e1441e230c8b480783e.jar" />
     </item>
     <item
-        jar="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
-        <dex dex="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-e6d62edc790c0f32d2f28e0189eb1335ed3d4a39.jar" />
-    </item>
-    <item
         jar="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -58,32 +30,25 @@
         <dex dex="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-50381ae84c2d5c5bf8ec3b5654f101aaf540a0b8.jar" />
     </item>
     <item
-        jar="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jar="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-4ff3f1625596e9300a1b5ac8e24535e25d618e14.jar" />
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-450d5b51b31b4b26d0831dfd8109031bc5197d34.jar" />
     </item>
     <item
-        jar="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\libs\volley.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\volley-6f970ec0de106f8e10c7eb24dcd3cd7247046114.jar" />
-    </item>
-    <item
-        jar="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
-        <dex dex="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-20ada3a5e9b57a5f76661e90cd9e6c245b22906c.jar" />
-    </item>
-    <item
-        jar="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\classes.jar"
+        jar="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
-        <dex dex="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-1f2024bb7cf8d35c5c154908446c8aa36cabea8a.jar" />
+        <dex dex="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-02a52c1c97b69708d3cd1857d3961e36d75ce6f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-408f4e35817a71080db46c0cc51255dd5fd0395d.jar" />
     </item>
     <item
         jar="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\classes.jar"
@@ -93,11 +58,11 @@
         <dex dex="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-4c22b70f91ce1575fa7c0718f3c98d65bc172c2d.jar" />
     </item>
     <item
-        jar="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jar="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-a6641e69092f755f8b153a6f76478766af7b3e32.jar" />
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-972ee821a37d50340c86bcccd6893c58fdd1581a.jar" />
     </item>
     <item
         jar="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
@@ -112,6 +77,13 @@
         revision="22.0.1"
         sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
         <dex dex="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-53d0d0c2456431271b25ff2942a2c37f1474a96e.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\volley-efac9eac1bad013b3d0acf7ede0c387d1e83e7d3.jar" />
     </item>
     <item
         jar="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\libs\volley.jar"
@@ -142,11 +114,11 @@
         <dex dex="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-487889d9fae7e5f18fd509681c723b3c851b5d85.jar" />
     </item>
     <item
-        jar="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jar="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="C:\Users\HP\Desktop\projekti 5\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-3f94420ca56f199a9b1b4ab59e8a947404a668a5.jar" />
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-e7891506480503aca198ce7d8651b9f57f4bfba1.jar" />
     </item>
     <item
         jar="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
@@ -154,6 +126,34 @@
         revision="22.0.1"
         sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
         <dex dex="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-542a8b01690bafdc1ed47545736294ec9fe94d9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-39a6674e541d5389ab9a2375d096cfaf00fb5f90.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-c9d5f734cc7804206e40fd305fc64128d542f022.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\classes-533a5d62761956d9419a9642019ff9250ed2f620.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\HP\Desktop\XYZReader\XYZReader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-d3bab23b7d9140676ac2b65e4385a761fb045264.jar" />
     </item>
     <item
         jar="D:\NanoDegree-Udacity\MaterialDesign\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
